@@ -1,0 +1,13 @@
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\bin\Debug\Es 2 - FormMDI.exe.config
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\bin\Debug\Es 2 - FormMDI.exe
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\bin\Debug\Es 2 - FormMDI.pdb
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\obj\Debug\Es 2 - FormMDI.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\obj\Debug\Es_2___FormMDI.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\obj\Debug\Es_2___FormMDI.FormFiglia1.resources
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\obj\Debug\Es_2___FormMDI.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\obj\Debug\Es 2 - FormMDI.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\obj\Debug\Es 2 - FormMDI.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\obj\Debug\Es 2 - FormMDI.exe
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\obj\Debug\Es 2 - FormMDI.pdb
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\obj\Debug\Es_2___FormMDI.Figlia2.resources
+C:\Users\Luca\OneDrive\Documenti\GitHub\info-playground-Pelissero-Luca\Es 2 - FormMDI\Es 2 - FormMDI\obj\Debug\Es_2___FormMDI.ModalEsci.resources
