@@ -36,9 +36,10 @@
             // 
             // btnLeggiValore
             // 
-            this.btnLeggiValore.Location = new System.Drawing.Point(12, 12);
+            this.btnLeggiValore.Location = new System.Drawing.Point(16, 15);
+            this.btnLeggiValore.Margin = new System.Windows.Forms.Padding(4);
             this.btnLeggiValore.Name = "btnLeggiValore";
-            this.btnLeggiValore.Size = new System.Drawing.Size(75, 23);
+            this.btnLeggiValore.Size = new System.Drawing.Size(100, 28);
             this.btnLeggiValore.TabIndex = 0;
             this.btnLeggiValore.Text = "Leggi valore";
             this.btnLeggiValore.UseVisualStyleBackColor = true;
@@ -46,16 +47,18 @@
             // 
             // txtForm2
             // 
-            this.txtForm2.Location = new System.Drawing.Point(12, 51);
+            this.txtForm2.Location = new System.Drawing.Point(16, 63);
+            this.txtForm2.Margin = new System.Windows.Forms.Padding(4);
             this.txtForm2.Name = "txtForm2";
-            this.txtForm2.Size = new System.Drawing.Size(100, 20);
+            this.txtForm2.Size = new System.Drawing.Size(132, 22);
             this.txtForm2.TabIndex = 1;
             // 
             // btnInviaF1
             // 
-            this.btnInviaF1.Location = new System.Drawing.Point(118, 51);
+            this.btnInviaF1.Location = new System.Drawing.Point(157, 63);
+            this.btnInviaF1.Margin = new System.Windows.Forms.Padding(4);
             this.btnInviaF1.Name = "btnInviaF1";
-            this.btnInviaF1.Size = new System.Drawing.Size(75, 23);
+            this.btnInviaF1.Size = new System.Drawing.Size(100, 28);
             this.btnInviaF1.TabIndex = 2;
             this.btnInviaF1.Text = "Invia a Form 1";
             this.btnInviaF1.UseVisualStyleBackColor = true;
@@ -63,9 +66,10 @@
             // 
             // btnFormFiglia
             // 
-            this.btnFormFiglia.Location = new System.Drawing.Point(12, 88);
+            this.btnFormFiglia.Location = new System.Drawing.Point(16, 111);
+            this.btnFormFiglia.Margin = new System.Windows.Forms.Padding(4);
             this.btnFormFiglia.Name = "btnFormFiglia";
-            this.btnFormFiglia.Size = new System.Drawing.Size(100, 23);
+            this.btnFormFiglia.Size = new System.Drawing.Size(133, 28);
             this.btnFormFiglia.TabIndex = 3;
             this.btnFormFiglia.Text = "Apri Form Figlia";
             this.btnFormFiglia.UseVisualStyleBackColor = true;
@@ -73,13 +77,14 @@
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(421, 226);
+            this.ClientSize = new System.Drawing.Size(561, 278);
             this.Controls.Add(this.btnFormFiglia);
             this.Controls.Add(this.btnInviaF1);
             this.Controls.Add(this.txtForm2);
             this.Controls.Add(this.btnLeggiValore);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form2";
             this.Text = "Form2";
             this.ResumeLayout(false);

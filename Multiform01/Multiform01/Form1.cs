@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Multiform01
@@ -40,6 +33,26 @@ namespace Multiform01
             Form2 f2b = new Form2(txtPassata);
             f2b.Text = "Form 2 passaggio di TextBox";
             f2b.Show();
+        }
+
+        private void btnFormModale_Click(object sender, EventArgs e)
+        {
+            FormModale fn = new FormModale();  // abbiamocreato una nuova form.
+
+            // Gestisco il bottone cliccato.
+            // dialog result ci restituisce il valore del bottone premuto.
+            if (fn.ShowDialog() == DialogResult.OK)
+            {
+                txtEtaFm.Text = fn.eta;
+                txtNomeFm.Text = fn.nome;
+                MessageBox.Show("Premuto OK");
+            }
+            else
+            {
+                txtEtaFm.Text = "";
+                txtNomeFm.Text = "";
+                MessageBox.Show("Premuto ANNULLA");
+            }
         }
     }
 }
