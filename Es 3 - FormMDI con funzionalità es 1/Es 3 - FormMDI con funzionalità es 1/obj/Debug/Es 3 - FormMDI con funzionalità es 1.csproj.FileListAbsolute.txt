@@ -1,0 +1,15 @@
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\bin\Debug\Es 3 - FormMDI con funzionalità es 1.exe.config
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\bin\Debug\Es 3 - FormMDI con funzionalità es 1.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\bin\Debug\Es 3 - FormMDI con funzionalità es 1.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es 3 - FormMDI con funzionalità es 1.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es_3___FormMDI_con_funzionalità_es_1.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es_3___FormMDI_con_funzionalità_es_1.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es 3 - FormMDI con funzionalità es 1.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es 3 - FormMDI con funzionalità es 1.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es 3 - FormMDI con funzionalità es 1.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es 3 - FormMDI con funzionalità es 1.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es_3___FormMDI_con_funzionalità_es_1.Form2.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es_3___FormMDI_con_funzionalità_es_1.Form2b.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es_3___FormMDI_con_funzionalità_es_1.FormTxt.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es_3___FormMDI_con_funzionalità_es_1.FormModale.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 3 - FormMDI con funzionalità es 1\Es 3 - FormMDI con funzionalità es 1\obj\Debug\Es_3___FormMDI_con_funzionalità_es_1.FormFiglia.resources
