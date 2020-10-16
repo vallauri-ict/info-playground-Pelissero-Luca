@@ -12,3 +12,17 @@ D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\0
 D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.FormSecondaria.resources
 D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.FormFiglia.resources
 D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.FormMDI.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\bin\Debug\004_PreparazioneVerifica.exe.config
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\bin\Debug\004_PreparazioneVerifica.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\bin\Debug\004_PreparazioneVerifica.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\obj\Debug\004_PreparazioneVerifica.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.FormFiglia.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.FormMDI.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.FormSecondaria.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.ModalEsci.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\obj\Debug\004_PreparazioneVerifica.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\obj\Debug\004_PreparazioneVerifica.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\obj\Debug\004_PreparazioneVerifica.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 4 - preparazione verifica\004_PreparazioneVerifica\obj\Debug\004_PreparazioneVerifica.pdb

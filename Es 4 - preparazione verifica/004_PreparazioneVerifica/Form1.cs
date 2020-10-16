@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace _004_PreparazioneVerifica
@@ -53,7 +54,10 @@ namespace _004_PreparazioneVerifica
         private void MDIToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FormMDI fm = new FormMDI();
-            fm.IsMdiContainer = true;
+            fm.MdiParent = this;
+            fm.Size = new Size(210, 180);
+            fm.StartPosition = FormStartPosition.Manual;
+            fm.Location = new Point(0, 100);
             fm.Show();
         }
     }
