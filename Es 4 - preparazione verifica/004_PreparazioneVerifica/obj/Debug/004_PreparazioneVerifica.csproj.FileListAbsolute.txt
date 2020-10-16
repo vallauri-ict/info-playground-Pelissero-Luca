@@ -1,0 +1,14 @@
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\bin\Debug\004_PreparazioneVerifica.exe.config
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\bin\Debug\004_PreparazioneVerifica.exe
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\bin\Debug\004_PreparazioneVerifica.pdb
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\004_PreparazioneVerifica.csprojAssemblyReference.cache
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.Form1.resources
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.Properties.Resources.resources
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\004_PreparazioneVerifica.csproj.GenerateResource.cache
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\004_PreparazioneVerifica.csproj.CoreCompileInputs.cache
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\004_PreparazioneVerifica.exe
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\004_PreparazioneVerifica.pdb
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.ModalEsci.resources
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.FormSecondaria.resources
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.FormFiglia.resources
+D:\Scuola\4_INF\Info\info-playground-michele-ghisolfi\004_PreparazioneVerifica\004_PreparazioneVerifica\obj\Debug\_004_PreparazioneVerifica.FormMDI.resources
