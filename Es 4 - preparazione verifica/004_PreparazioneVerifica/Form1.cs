@@ -32,7 +32,7 @@ namespace _004_PreparazioneVerifica
         FormFiglia ff;
         private void btnInviaAFormFiglia_Click(object sender, EventArgs e)
         {
-            if (((FormFiglia)Application.OpenForms["FormFiglia"])!=null)
+            if (((FormFiglia)Application.OpenForms["FormFiglia"]) != null)
             {
                 ff.txtF1.Text = txtInviaFormFiglia.Text;
             }
@@ -42,11 +42,11 @@ namespace _004_PreparazioneVerifica
                 ff.txtF1.Text = txtInviaFormFiglia.Text;
             }
         }
-        
+
         private void figliaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             ff = new FormFiglia(txtInviaFormFiglia);
-            toolStripStatusLbl.Text = "Aperta Form secondaria";
+            toolStripStatusLbl.Text = "Aperta Form figlia";
             this.AddOwnedForm(ff);
             ff.Show();
         }

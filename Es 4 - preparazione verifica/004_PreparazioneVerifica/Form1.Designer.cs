@@ -75,13 +75,13 @@
             // loadToolStripMenuItem1
             // 
             this.loadToolStripMenuItem1.Name = "loadToolStripMenuItem1";
-            this.loadToolStripMenuItem1.Size = new System.Drawing.Size(177, 26);
+            this.loadToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
             this.loadToolStripMenuItem1.Text = "Load";
             // 
             // saveToolStripMenuItem1
             // 
             this.saveToolStripMenuItem1.Name = "saveToolStripMenuItem1";
-            this.saveToolStripMenuItem1.Size = new System.Drawing.Size(177, 26);
+            this.saveToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
             this.saveToolStripMenuItem1.Text = "Save";
             // 
             // newToolStripMenuItem3
@@ -91,7 +91,7 @@
             this.secondariaToolStripMenuItem,
             this.MDIToolStripMenuItem});
             this.newToolStripMenuItem3.Name = "newToolStripMenuItem3";
-            this.newToolStripMenuItem3.Size = new System.Drawing.Size(177, 26);
+            this.newToolStripMenuItem3.Size = new System.Drawing.Size(224, 26);
             this.newToolStripMenuItem3.Text = "New";
             // 
             // figliaToolStripMenuItem
@@ -119,7 +119,7 @@
             // 
             this.exitToolStripMenuItem1.Name = "exitToolStripMenuItem1";
             this.exitToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.X)));
-            this.exitToolStripMenuItem1.Size = new System.Drawing.Size(177, 26);
+            this.exitToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
             this.exitToolStripMenuItem1.Text = "Exit";
             this.exitToolStripMenuItem1.Click += new System.EventHandler(this.exitToolStripMenuItem1_Click);
             // 
