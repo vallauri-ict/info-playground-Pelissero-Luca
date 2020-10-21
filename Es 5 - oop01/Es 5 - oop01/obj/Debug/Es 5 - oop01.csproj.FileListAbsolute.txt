@@ -1,0 +1,10 @@
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 5 - oop01\Es 5 - oop01\bin\Debug\Es 5 - oop01.exe.config
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 5 - oop01\Es 5 - oop01\bin\Debug\Es 5 - oop01.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 5 - oop01\Es 5 - oop01\bin\Debug\Es 5 - oop01.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 5 - oop01\Es 5 - oop01\obj\Debug\Es 5 - oop01.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 5 - oop01\Es 5 - oop01\obj\Debug\Es_5___oop01.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 5 - oop01\Es 5 - oop01\obj\Debug\Es_5___oop01.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 5 - oop01\Es 5 - oop01\obj\Debug\Es 5 - oop01.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 5 - oop01\Es 5 - oop01\obj\Debug\Es 5 - oop01.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 5 - oop01\Es 5 - oop01\obj\Debug\Es 5 - oop01.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 5 - oop01\Es 5 - oop01\obj\Debug\Es 5 - oop01.pdb
