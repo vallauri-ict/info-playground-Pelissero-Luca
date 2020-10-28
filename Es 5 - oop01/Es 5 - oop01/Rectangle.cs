@@ -9,9 +9,14 @@ namespace Es_5___oop01
         private string descrizione;
         public Color color;
 
-        public Rectangle()
+        public Rectangle(): this(1)
         {
             descrizione = "Sono un rettangolo";
+        }
+
+        public Rectangle(int l): this(l, l)
+        {
+
         }
 
         public Rectangle(int baseRettangolo, int altezzaRettangolo)
