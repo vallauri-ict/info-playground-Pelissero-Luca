@@ -1,0 +1,10 @@
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 6 - MetodoFactory\Es 6 - MetodoFactory\bin\Debug\Es 6 - MetodoFactory.exe.config
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 6 - MetodoFactory\Es 6 - MetodoFactory\bin\Debug\Es 6 - MetodoFactory.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 6 - MetodoFactory\Es 6 - MetodoFactory\bin\Debug\Es 6 - MetodoFactory.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 6 - MetodoFactory\Es 6 - MetodoFactory\obj\Debug\Es 6 - MetodoFactory.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 6 - MetodoFactory\Es 6 - MetodoFactory\obj\Debug\Es_6___MetodoFactory.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 6 - MetodoFactory\Es 6 - MetodoFactory\obj\Debug\Es_6___MetodoFactory.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 6 - MetodoFactory\Es 6 - MetodoFactory\obj\Debug\Es 6 - MetodoFactory.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 6 - MetodoFactory\Es 6 - MetodoFactory\obj\Debug\Es 6 - MetodoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 6 - MetodoFactory\Es 6 - MetodoFactory\obj\Debug\Es 6 - MetodoFactory.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 6 - MetodoFactory\Es 6 - MetodoFactory\obj\Debug\Es 6 - MetodoFactory.pdb
