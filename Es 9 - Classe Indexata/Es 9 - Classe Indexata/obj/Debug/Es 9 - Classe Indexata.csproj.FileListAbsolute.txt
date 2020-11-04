@@ -1,0 +1,10 @@
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 9 - Classe Indexata\Es 9 - Classe Indexata\bin\Debug\Es 9 - Classe Indexata.exe.config
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 9 - Classe Indexata\Es 9 - Classe Indexata\bin\Debug\Es 9 - Classe Indexata.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 9 - Classe Indexata\Es 9 - Classe Indexata\bin\Debug\Es 9 - Classe Indexata.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 9 - Classe Indexata\Es 9 - Classe Indexata\obj\Debug\Es 9 - Classe Indexata.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 9 - Classe Indexata\Es 9 - Classe Indexata\obj\Debug\Es_9___Classe_Indexata.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 9 - Classe Indexata\Es 9 - Classe Indexata\obj\Debug\Es_9___Classe_Indexata.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 9 - Classe Indexata\Es 9 - Classe Indexata\obj\Debug\Es 9 - Classe Indexata.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 9 - Classe Indexata\Es 9 - Classe Indexata\obj\Debug\Es 9 - Classe Indexata.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 9 - Classe Indexata\Es 9 - Classe Indexata\obj\Debug\Es 9 - Classe Indexata.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 9 - Classe Indexata\Es 9 - Classe Indexata\obj\Debug\Es 9 - Classe Indexata.pdb
