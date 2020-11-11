@@ -1,5 +1,5 @@
 1° esercizio : Una targa composta da 2 lettere 3 cifre e altre 2 lettere
-/^[a-zA-Z]{3}\d{2}\^[a-zA-Z]{3}$
+/^[A-Z]{2}\d{3}[A-Z]{2}$
 
 2° esercizio : Una password composta da 8 caratteri alfabetici seguita da 3 cifre e terminate con uno tra i seguenti caratteri: - ? @
 /^[a-zA-Z]{8}\d{3}[-?@]$
