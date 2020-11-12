@@ -1,0 +1,10 @@
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 11 - RegEx Form di Registrazione\Es 11 - RegEx Form di Registrazione\bin\Debug\Es 11 - RegEx Form di Registrazione.exe.config
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 11 - RegEx Form di Registrazione\Es 11 - RegEx Form di Registrazione\bin\Debug\Es 11 - RegEx Form di Registrazione.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 11 - RegEx Form di Registrazione\Es 11 - RegEx Form di Registrazione\bin\Debug\Es 11 - RegEx Form di Registrazione.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 11 - RegEx Form di Registrazione\Es 11 - RegEx Form di Registrazione\obj\Debug\Es 11 - RegEx Form di Registrazione.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 11 - RegEx Form di Registrazione\Es 11 - RegEx Form di Registrazione\obj\Debug\Es_11___RegEx_Form_di_Registrazione.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 11 - RegEx Form di Registrazione\Es 11 - RegEx Form di Registrazione\obj\Debug\Es_11___RegEx_Form_di_Registrazione.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 11 - RegEx Form di Registrazione\Es 11 - RegEx Form di Registrazione\obj\Debug\Es 11 - RegEx Form di Registrazione.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 11 - RegEx Form di Registrazione\Es 11 - RegEx Form di Registrazione\obj\Debug\Es 11 - RegEx Form di Registrazione.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 11 - RegEx Form di Registrazione\Es 11 - RegEx Form di Registrazione\obj\Debug\Es 11 - RegEx Form di Registrazione.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 11 - RegEx Form di Registrazione\Es 11 - RegEx Form di Registrazione\obj\Debug\Es 11 - RegEx Form di Registrazione.pdb
