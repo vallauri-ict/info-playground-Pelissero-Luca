@@ -61,12 +61,19 @@ namespace Es_12___Lista
 
         private void btnFind_Click(object sender, EventArgs e)
         {
-            
+            Libro l = lstLibri.Find(lib => lib.Titolo == txtTitoloAutore.Text);
+            MessageBox.Show(l.Autore);
         }
 
         private void btnFindAll_Click(object sender, EventArgs e)
         {
+            List<Libro> aus = new List<Libro>();
+            aus = lstLibri.FindAll(aut => aut.Autore == txtTitoloAutore.Text);
 
+            string l = "";
+            foreach (var item in aus)
+                l += item.Titolo + "\n";
+            MessageBox.Show(l);
         }
     }
 }
