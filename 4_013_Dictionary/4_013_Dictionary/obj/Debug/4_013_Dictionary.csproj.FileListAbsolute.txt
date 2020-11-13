@@ -1,0 +1,10 @@
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_013_Dictionary\4_013_Dictionary\bin\Debug\4_013_Dictionary.exe.config
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_013_Dictionary\4_013_Dictionary\bin\Debug\4_013_Dictionary.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_013_Dictionary\4_013_Dictionary\bin\Debug\4_013_Dictionary.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_013_Dictionary\4_013_Dictionary\obj\Debug\4_013_Dictionary.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_013_Dictionary\4_013_Dictionary\obj\Debug\_4_013_Dictionary.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_013_Dictionary\4_013_Dictionary\obj\Debug\_4_013_Dictionary.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_013_Dictionary\4_013_Dictionary\obj\Debug\4_013_Dictionary.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_013_Dictionary\4_013_Dictionary\obj\Debug\4_013_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_013_Dictionary\4_013_Dictionary\obj\Debug\4_013_Dictionary.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_013_Dictionary\4_013_Dictionary\obj\Debug\4_013_Dictionary.pdb
