@@ -1,0 +1,10 @@
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 12 - Lista\Es 12 - Lista\bin\Debug\Es 12 - Lista.exe.config
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 12 - Lista\Es 12 - Lista\bin\Debug\Es 12 - Lista.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 12 - Lista\Es 12 - Lista\bin\Debug\Es 12 - Lista.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 12 - Lista\Es 12 - Lista\obj\Debug\Es 12 - Lista.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 12 - Lista\Es 12 - Lista\obj\Debug\Es_12___Lista.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 12 - Lista\Es 12 - Lista\obj\Debug\Es_12___Lista.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 12 - Lista\Es 12 - Lista\obj\Debug\Es 12 - Lista.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 12 - Lista\Es 12 - Lista\obj\Debug\Es 12 - Lista.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 12 - Lista\Es 12 - Lista\obj\Debug\Es 12 - Lista.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\Es 12 - Lista\Es 12 - Lista\obj\Debug\Es 12 - Lista.pdb
