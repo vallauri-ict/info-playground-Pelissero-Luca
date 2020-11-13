@@ -14,6 +14,7 @@ namespace Es_12___Lista
         }
 
         List<Libro> miaLista = new List<Libro>();
+        List<Libro> lstLibri = new List<Libro>();
 
         public Form1()
         {
@@ -37,6 +38,35 @@ namespace Es_12___Lista
             foreach (var elemento in miaLista)
                 s += elemento.Titolo + "\n";
             MessageBox.Show(s);
+        }
+
+        private void btnAggiungi_Click(object sender, EventArgs e)
+        {
+            Libro lib;
+
+            lib.Autore = txtAutore.Text;
+            lib.Titolo = txtTitolo.Text;
+            lib.ID = Convert.ToInt32(txtID.Text);
+
+            lstLibri.Add(lib);
+        }
+
+        private void btnVis_Click(object sender, EventArgs e)
+        {
+            string l = "";
+            foreach (var item in lstLibri)
+                l += item.Titolo + "\n";
+            MessageBox.Show(l);
+        }
+
+        private void btnFind_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void btnFindAll_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

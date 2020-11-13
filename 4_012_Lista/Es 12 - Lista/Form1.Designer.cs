@@ -36,6 +36,12 @@
             this.label3 = new System.Windows.Forms.Label();
             this.bntAdd = new System.Windows.Forms.Button();
             this.btnVisualizza = new System.Windows.Forms.Button();
+            this.btnAggiungi = new System.Windows.Forms.Button();
+            this.btnVis = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
+            this.txtTitoloAutore = new System.Windows.Forms.TextBox();
+            this.btnFind = new System.Windows.Forms.Button();
+            this.btnFindAll = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -106,11 +112,73 @@
             this.btnVisualizza.UseVisualStyleBackColor = true;
             this.btnVisualizza.Click += new System.EventHandler(this.btnVisualizza_Click);
             // 
+            // btnAggiungi
+            // 
+            this.btnAggiungi.Location = new System.Drawing.Point(258, 38);
+            this.btnAggiungi.Name = "btnAggiungi";
+            this.btnAggiungi.Size = new System.Drawing.Size(83, 35);
+            this.btnAggiungi.TabIndex = 8;
+            this.btnAggiungi.Text = "Aggiungi";
+            this.btnAggiungi.UseVisualStyleBackColor = true;
+            this.btnAggiungi.Click += new System.EventHandler(this.btnAggiungi_Click);
+            // 
+            // btnVis
+            // 
+            this.btnVis.Location = new System.Drawing.Point(364, 41);
+            this.btnVis.Name = "btnVis";
+            this.btnVis.Size = new System.Drawing.Size(83, 35);
+            this.btnVis.TabIndex = 9;
+            this.btnVis.Text = "Visualizza";
+            this.btnVis.UseVisualStyleBackColor = true;
+            this.btnVis.Click += new System.EventHandler(this.btnVis_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(255, 99);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(89, 17);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "Titolo/Autore";
+            // 
+            // txtTitoloAutore
+            // 
+            this.txtTitoloAutore.Location = new System.Drawing.Point(350, 96);
+            this.txtTitoloAutore.Name = "txtTitoloAutore";
+            this.txtTitoloAutore.Size = new System.Drawing.Size(100, 22);
+            this.txtTitoloAutore.TabIndex = 11;
+            // 
+            // btnFind
+            // 
+            this.btnFind.Location = new System.Drawing.Point(258, 139);
+            this.btnFind.Name = "btnFind";
+            this.btnFind.Size = new System.Drawing.Size(83, 35);
+            this.btnFind.TabIndex = 12;
+            this.btnFind.Text = "Find";
+            this.btnFind.UseVisualStyleBackColor = true;
+            this.btnFind.Click += new System.EventHandler(this.btnFind_Click);
+            // 
+            // btnFindAll
+            // 
+            this.btnFindAll.Location = new System.Drawing.Point(364, 139);
+            this.btnFindAll.Name = "btnFindAll";
+            this.btnFindAll.Size = new System.Drawing.Size(83, 35);
+            this.btnFindAll.TabIndex = 13;
+            this.btnFindAll.Text = "Find All";
+            this.btnFindAll.UseVisualStyleBackColor = true;
+            this.btnFindAll.Click += new System.EventHandler(this.btnFindAll_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(242, 224);
+            this.ClientSize = new System.Drawing.Size(478, 224);
+            this.Controls.Add(this.btnFindAll);
+            this.Controls.Add(this.btnFind);
+            this.Controls.Add(this.txtTitoloAutore);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.btnVis);
+            this.Controls.Add(this.btnAggiungi);
             this.Controls.Add(this.btnVisualizza);
             this.Controls.Add(this.bntAdd);
             this.Controls.Add(this.txtID);
@@ -136,6 +204,12 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button bntAdd;
         private System.Windows.Forms.Button btnVisualizza;
+        private System.Windows.Forms.Button btnAggiungi;
+        private System.Windows.Forms.Button btnVis;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox txtTitoloAutore;
+        private System.Windows.Forms.Button btnFind;
+        private System.Windows.Forms.Button btnFindAll;
     }
 }
 
