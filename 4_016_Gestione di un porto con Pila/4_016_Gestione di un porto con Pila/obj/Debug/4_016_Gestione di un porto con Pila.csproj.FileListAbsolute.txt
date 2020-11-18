@@ -1,0 +1,10 @@
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_016_Gestione di un porto con Pila\4_016_Gestione di un porto con Pila\bin\Debug\4_016_Gestione di un porto con Pila.exe.config
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_016_Gestione di un porto con Pila\4_016_Gestione di un porto con Pila\bin\Debug\4_016_Gestione di un porto con Pila.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_016_Gestione di un porto con Pila\4_016_Gestione di un porto con Pila\bin\Debug\4_016_Gestione di un porto con Pila.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_016_Gestione di un porto con Pila\4_016_Gestione di un porto con Pila\obj\Debug\4_016_Gestione di un porto con Pila.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_016_Gestione di un porto con Pila\4_016_Gestione di un porto con Pila\obj\Debug\_4_016_Gestione_di_un_porto_con_Pila.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_016_Gestione di un porto con Pila\4_016_Gestione di un porto con Pila\obj\Debug\_4_016_Gestione_di_un_porto_con_Pila.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_016_Gestione di un porto con Pila\4_016_Gestione di un porto con Pila\obj\Debug\4_016_Gestione di un porto con Pila.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_016_Gestione di un porto con Pila\4_016_Gestione di un porto con Pila\obj\Debug\4_016_Gestione di un porto con Pila.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_016_Gestione di un porto con Pila\4_016_Gestione di un porto con Pila\obj\Debug\4_016_Gestione di un porto con Pila.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_016_Gestione di un porto con Pila\4_016_Gestione di un porto con Pila\obj\Debug\4_016_Gestione di un porto con Pila.pdb

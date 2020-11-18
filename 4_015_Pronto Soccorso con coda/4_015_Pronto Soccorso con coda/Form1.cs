@@ -30,9 +30,12 @@ namespace _4_015_Pronto_Soccorso_con_coda
         Queue<Paziente> verde = new Queue<Paziente>();
         Queue<Paziente> bianco = new Queue<Paziente>();
 
+        //lista temperature
+        List<int> temperature = new List<int>();
+
         private void btnRegistra_Click(object sender, EventArgs e)
         {
-            if(txtNome.Text=="" || txtEta.Text == "" || txtColore.Text == "")
+            if (txtNome.Text == "" || txtEta.Text == "" || txtColore.Text == "" || txtTemperatura.Text == "")
                 MessageBox.Show("Dati mancanti");
             else
             {
@@ -40,6 +43,8 @@ namespace _4_015_Pronto_Soccorso_con_coda
                 p.nome = txtNome.Text;
                 p.eta = Convert.ToInt32(txtEta.Text);
                 p.colore = txtColore.Text;
+
+                temperature.Add(Convert.ToInt32(txtTemperatura.Text));
 
                 switch (txtColore.Text)
                 {
@@ -63,6 +68,7 @@ namespace _4_015_Pronto_Soccorso_con_coda
             txtNome.Text = "";
             txtEta.Text = "";
             txtColore.Text = "";
+            txtTemperatura.Text = "";
         }
 
         private void btnVisita_Click(object sender, EventArgs e)
@@ -101,9 +107,25 @@ namespace _4_015_Pronto_Soccorso_con_coda
                     txtNome.Text = "";
                     txtEta.Text = "";
                     txtColore.Text = "";
+                    txtTemperatura.Text = "";
                     MessageBox.Show("Non ci sono paziente da visitare.");
                 }
             }
+        }
+
+        private void bntAddTemp_Click(object sender, EventArgs e)
+        {
+            int Tmax = 0;
+            int Tmin = 50;
+
+            for (int i = 0; i < temperature.Count; i++)
+            {
+                if (temperature[i] > Tmax)
+                    Tmax = temperature[i];
+                if(temperature[i] < Tmin)
+                    Tmin = temperature[i];
+            }
+            MessageBox.Show("Max temperature: " + Tmax + "\nMin temperature: " + Tmin);
         }
     }
 }
