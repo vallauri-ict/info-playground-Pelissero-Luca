@@ -1,0 +1,10 @@
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_014_Dictionary Negozio\4_014_Dictionary Negozio\bin\Debug\4_014_Dictionary Negozio.exe.config
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_014_Dictionary Negozio\4_014_Dictionary Negozio\bin\Debug\4_014_Dictionary Negozio.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_014_Dictionary Negozio\4_014_Dictionary Negozio\bin\Debug\4_014_Dictionary Negozio.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_014_Dictionary Negozio\4_014_Dictionary Negozio\obj\Debug\4_014_Dictionary Negozio.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_014_Dictionary Negozio\4_014_Dictionary Negozio\obj\Debug\_4_014_Dictionary_Negozio.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_014_Dictionary Negozio\4_014_Dictionary Negozio\obj\Debug\_4_014_Dictionary_Negozio.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_014_Dictionary Negozio\4_014_Dictionary Negozio\obj\Debug\4_014_Dictionary Negozio.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_014_Dictionary Negozio\4_014_Dictionary Negozio\obj\Debug\4_014_Dictionary Negozio.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_014_Dictionary Negozio\4_014_Dictionary Negozio\obj\Debug\4_014_Dictionary Negozio.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_014_Dictionary Negozio\4_014_Dictionary Negozio\obj\Debug\4_014_Dictionary Negozio.pdb
