@@ -1,0 +1,10 @@
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_017_Ereditarietà\4_017_Ereditarietà\bin\Debug\4_017_Ereditarietà.exe.config
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_017_Ereditarietà\4_017_Ereditarietà\bin\Debug\4_017_Ereditarietà.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_017_Ereditarietà\4_017_Ereditarietà\bin\Debug\4_017_Ereditarietà.pdb
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_017_Ereditarietà\4_017_Ereditarietà\obj\Debug\4_017_Ereditarietà.csprojAssemblyReference.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_017_Ereditarietà\4_017_Ereditarietà\obj\Debug\_4_017_Ereditarietà.Form1.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_017_Ereditarietà\4_017_Ereditarietà\obj\Debug\_4_017_Ereditarietà.Properties.Resources.resources
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_017_Ereditarietà\4_017_Ereditarietà\obj\Debug\4_017_Ereditarietà.csproj.GenerateResource.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_017_Ereditarietà\4_017_Ereditarietà\obj\Debug\4_017_Ereditarietà.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_017_Ereditarietà\4_017_Ereditarietà\obj\Debug\4_017_Ereditarietà.exe
+C:\Users\Luca\OneDrive\Documenti\4B\informatica\4_017_Ereditarietà\4_017_Ereditarietà\obj\Debug\4_017_Ereditarietà.pdb
