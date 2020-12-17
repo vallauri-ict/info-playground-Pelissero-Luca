@@ -20,31 +20,35 @@ namespace _4_020_OOP_PersoneStudenti
             }
             else
             {
-                this.nome = nome;
-                this.cognome = cognome;
-                this.sesso = sesso;
-                this.eta = eta;
+                Nome = nome;
+                Cognome = cognome;
+                Sesso = sesso;
+                Eta = eta;
             }
         }
 
-        public string getNome()
+        public string Nome
         {
-            return this.nome;
+            get => this.nome;
+            set => this.nome = value;
         }
 
-        public string getCognome()
+        public string Cognome
         {
-            return this.cognome;
+            get => this.cognome;
+            set => this.cognome = value;
         }
 
-        public string getSesso()
+        public string Sesso
         {
-            return this.sesso;
+            get => this.sesso;
+            set => this.sesso = value;
         }
 
-        public int getEta()
+        public int Eta
         {
-            return this.eta;
+            get => this.eta;
+            set => this.eta = value;
         }
     }
 }

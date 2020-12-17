@@ -159,7 +159,7 @@ namespace _4_020_OOP_PersoneStudenti
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(475, 195);
+            this.ClientSize = new System.Drawing.Size(475, 184);
             this.Controls.Add(this.txtSesso);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.btnMedia);
@@ -175,6 +175,7 @@ namespace _4_020_OOP_PersoneStudenti
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

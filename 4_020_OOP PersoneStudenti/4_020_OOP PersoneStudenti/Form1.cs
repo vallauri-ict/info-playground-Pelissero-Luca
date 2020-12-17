@@ -5,28 +5,31 @@ namespace _4_020_OOP_PersoneStudenti
 {
     public partial class Form1 : Form
     {
+        Studente s;
         public Form1()
         {
             InitializeComponent();
+
         }
 
         private void btnRegistra_Click(object sender, EventArgs e)
         {
             btnRegistra.Enabled = false;
+            btnMedia.Enabled = false;
 
-            Persona p = new Persona();
-            p.setAttributs(txtNome.Text, txtCognome.Text, txtSesso.Text, Convert.ToInt32(txtEta.Text));
+            s = new Studente();
+            s.setAttributs(txtNome.Text, txtCognome.Text, txtSesso.Text, Convert.ToInt32(txtEta.Text));
+
+            btnAggiungi.Enabled = true;
         }
 
         private void btnAggiungi_Click(object sender, EventArgs e)
         {
             if (txtVoti.Text == "")
-                MessageBox.Show("Prima inserisci il dato");
+                MessageBox.Show("Inserisci il dato");
             else
             {
-                int voto = Convert.ToInt32(txtVoti.Text);
-                Studente s = new Studente();
-                s.aggiungiVoto(voto);
+                s.aggiungiVoto(Convert.ToInt32(txtVoti.Text));
                 btnMedia.Enabled = true;
                 txtVoti.Text = "";
                 txtVoti.Focus();
@@ -35,9 +38,16 @@ namespace _4_020_OOP_PersoneStudenti
 
         private void btnMedia_Click(object sender, EventArgs e)
         {
-            //double media = ;
+            MessageBox.Show(s.media().ToString());
+
+            btnAggiungi.Enabled = false;
             btnRegistra.Enabled = true;
-            //MessageBox.Show("La media dello studente vale: " + media);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            btnAggiungi.Enabled = false;
+            btnMedia.Enabled = false;
         }
     }
 }
