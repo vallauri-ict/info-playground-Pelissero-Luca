@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5783AD4A-0FFF-4E0E-8511-6AFBBE94A0B4}</ProjectGuid>
+    <ProjectGuid>{A8A1636E-5D8F-4D31-A1D9-15773C4072CC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_4_020_OOP_PersoneStudenti</RootNamespace>
-    <AssemblyName>4_020_OOP PersoneStudenti</AssemblyName>
+    <RootNamespace>_4_021_OPP_complessi_e_quaternoni</RootNamespace>
+    <AssemblyName>4_021_OPP complessi e quaternoni</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,13 +52,8 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Persona.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Studente.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

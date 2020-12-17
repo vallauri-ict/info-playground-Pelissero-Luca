@@ -10,8 +10,14 @@ namespace _4_020_OOP_PersoneStudenti
     {
         List<int> voti = new List<int>();
 
+        public void aggiungiVoto(int voto)
+        {
+            voti.Add(voto);
+        }
+
         public double media()
         {
+            int count = voti.Count;
             int sommaVoti = 0;
 
             foreach (var item in voti)
@@ -19,7 +25,9 @@ namespace _4_020_OOP_PersoneStudenti
                 sommaVoti += item;
             }
 
-            return (double)sommaVoti / voti.Count;
+            voti.Clear();
+
+            return (double)sommaVoti / count;
         }
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace _4_020_OOP_PersoneStudenti
 {
@@ -13,15 +14,17 @@ namespace _4_020_OOP_PersoneStudenti
 
         public void setAttributs(string nome, string cognome, string sesso, int eta)
         {
-            if (true)
+            if (nome == "" || cognome == "" || sesso == "" || eta.ToString() == "")
             {
-                // possiamo fare vari controlli sui parametri
+                MessageBox.Show("Dati mancanti");
             }
-
-            this.nome = nome;
-            this.cognome = cognome;
-            this.sesso = sesso;
-            this.eta = eta;
+            else
+            {
+                this.nome = nome;
+                this.cognome = cognome;
+                this.sesso = sesso;
+                this.eta = eta;
+            }
         }
 
         public string getNome()
