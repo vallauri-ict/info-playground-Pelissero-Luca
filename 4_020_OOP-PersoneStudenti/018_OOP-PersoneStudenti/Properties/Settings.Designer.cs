@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace _4_020_OOP_PersoneStudenti.Properties
+namespace _018_OOP_PersoneStudenti.Properties
 {
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")]

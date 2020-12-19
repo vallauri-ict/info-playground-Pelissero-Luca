@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _4_020_OOP_PersoneStudenti
+namespace _018_OOP_PersoneStudenti
 {
     static class Program
     {

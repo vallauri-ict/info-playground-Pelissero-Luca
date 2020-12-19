@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace _4_020_OOP_PersoneStudenti.Properties
+namespace _018_OOP_PersoneStudenti.Properties
 {
     /// <summary>
     ///   Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
@@ -43,7 +43,7 @@ namespace _4_020_OOP_PersoneStudenti.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("_4_020_OOP_PersoneStudenti.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("_018_OOP_PersoneStudenti.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
