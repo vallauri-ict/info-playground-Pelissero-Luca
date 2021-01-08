@@ -8,9 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
-namespace _4_021_OPP_complessi_e_quaternoni.Properties
+namespace _21_OOP_Complessi_e_Quaternioni.Properties
 {
+
+
     /// <summary>
     ///   Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
     /// </summary>
@@ -43,7 +44,7 @@ namespace _4_021_OPP_complessi_e_quaternoni.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("_4_021_OPP_complessi_e_quaternoni.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("_21_OOP_Complessi_e_Quaternioni.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

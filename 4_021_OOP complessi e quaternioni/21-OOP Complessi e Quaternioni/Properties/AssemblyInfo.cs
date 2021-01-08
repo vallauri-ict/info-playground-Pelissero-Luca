@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Le informazioni generali relative a un assembly sono controllate dal seguente 
 // set di attributi. Modificare i valori di questi attributi per modificare le informazioni
 // associate a un assembly.
-[assembly: AssemblyTitle("4_021_OPP complessi e quaternoni")]
+[assembly: AssemblyTitle("21-OOP Complessi e Quaternioni")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("4_021_OPP complessi e quaternoni")]
+[assembly: AssemblyProduct("21-OOP Complessi e Quaternioni")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Se il progetto viene esposto a COM, il GUID seguente verrà utilizzato come ID della libreria dei tipi
-[assembly: Guid("a8a1636e-5d8f-4d31-a1d9-15773c4072cc")]
+[assembly: Guid("cfe0e857-79c4-481f-a147-ca003483e0ba")]
 
 // Le informazioni sulla versione di un assembly sono costituite dai seguenti quattro valori:
 //

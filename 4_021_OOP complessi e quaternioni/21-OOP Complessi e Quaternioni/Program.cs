@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _4_021_OPP_complessi_e_quaternoni
+namespace _21_OOP_Complessi_e_Quaternioni
 {
     static class Program
     {

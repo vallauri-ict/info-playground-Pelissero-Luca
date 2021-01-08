@@ -1,0 +1,10 @@
+C:\Users\matte\Desktop\info-playground-aba003\Es21-OOP Complessi e Quaternioni\21-OOP Complessi e Quaternioni\bin\Debug\21-OOP Complessi e Quaternioni.exe.config
+C:\Users\matte\Desktop\info-playground-aba003\Es21-OOP Complessi e Quaternioni\21-OOP Complessi e Quaternioni\bin\Debug\21-OOP Complessi e Quaternioni.exe
+C:\Users\matte\Desktop\info-playground-aba003\Es21-OOP Complessi e Quaternioni\21-OOP Complessi e Quaternioni\bin\Debug\21-OOP Complessi e Quaternioni.pdb
+C:\Users\matte\Desktop\info-playground-aba003\Es21-OOP Complessi e Quaternioni\21-OOP Complessi e Quaternioni\obj\Debug\21-OOP Complessi e Quaternioni.csprojAssemblyReference.cache
+C:\Users\matte\Desktop\info-playground-aba003\Es21-OOP Complessi e Quaternioni\21-OOP Complessi e Quaternioni\obj\Debug\_21_OOP_Complessi_e_Quaternioni.Form1.resources
+C:\Users\matte\Desktop\info-playground-aba003\Es21-OOP Complessi e Quaternioni\21-OOP Complessi e Quaternioni\obj\Debug\_21_OOP_Complessi_e_Quaternioni.Properties.Resources.resources
+C:\Users\matte\Desktop\info-playground-aba003\Es21-OOP Complessi e Quaternioni\21-OOP Complessi e Quaternioni\obj\Debug\21-OOP Complessi e Quaternioni.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\info-playground-aba003\Es21-OOP Complessi e Quaternioni\21-OOP Complessi e Quaternioni\obj\Debug\21-OOP Complessi e Quaternioni.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\info-playground-aba003\Es21-OOP Complessi e Quaternioni\21-OOP Complessi e Quaternioni\obj\Debug\21-OOP Complessi e Quaternioni.exe
+C:\Users\matte\Desktop\info-playground-aba003\Es21-OOP Complessi e Quaternioni\21-OOP Complessi e Quaternioni\obj\Debug\21-OOP Complessi e Quaternioni.pdb
