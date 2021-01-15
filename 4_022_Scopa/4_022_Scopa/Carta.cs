@@ -17,7 +17,7 @@ namespace _4_022_Scopa
             this.seme = seme;
         }
 
-        public void Lettura(ref int valore, ref string seme)
+        public void Lettura(int valore, string seme)
         {
             seme = this.seme;
             valore = this.valore;
