@@ -1,0 +1,7 @@
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_025_MondoAnimale\4_025_MondoAnimale\obj\Debug\4_025_MondoAnimale.csprojAssemblyReference.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_025_MondoAnimale\4_025_MondoAnimale\obj\Debug\4_025_MondoAnimale.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_025_MondoAnimale\4_025_MondoAnimale\bin\Debug\4_025_MondoAnimale.exe.config
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_025_MondoAnimale\4_025_MondoAnimale\bin\Debug\4_025_MondoAnimale.exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_025_MondoAnimale\4_025_MondoAnimale\bin\Debug\4_025_MondoAnimale.pdb
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_025_MondoAnimale\4_025_MondoAnimale\obj\Debug\4_025_MondoAnimale.exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_025_MondoAnimale\4_025_MondoAnimale\obj\Debug\4_025_MondoAnimale.pdb
