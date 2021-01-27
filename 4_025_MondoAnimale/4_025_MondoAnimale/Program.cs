@@ -17,7 +17,7 @@ namespace _4_025_MondoAnimale
 			Corvo w = new Corvo("Il corvo dell'uva");
 			Tonno t = new Tonno("Palmera");
 			Uccello u = new Uccello("Gabbiano");
-			Pinguino p = new Pinguino("Tweety");
+			Pinguino p = new Pinguino("Jonny il biondo");
 
 			c.mostra(); h.mostra();
 			w.mostra(); t.mostra();
