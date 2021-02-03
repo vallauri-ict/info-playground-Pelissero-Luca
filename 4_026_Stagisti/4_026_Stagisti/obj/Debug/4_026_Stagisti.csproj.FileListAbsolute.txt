@@ -1,0 +1,10 @@
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_026_Stagisti\4_026_Stagisti\bin\Debug\4_026_Stagisti.exe.config
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_026_Stagisti\4_026_Stagisti\bin\Debug\4_026_Stagisti.exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_026_Stagisti\4_026_Stagisti\bin\Debug\4_026_Stagisti.pdb
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_026_Stagisti\4_026_Stagisti\obj\Debug\4_026_Stagisti.csprojAssemblyReference.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_026_Stagisti\4_026_Stagisti\obj\Debug\_4_026_Stagisti.Form1.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_026_Stagisti\4_026_Stagisti\obj\Debug\_4_026_Stagisti.Properties.Resources.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_026_Stagisti\4_026_Stagisti\obj\Debug\4_026_Stagisti.csproj.GenerateResource.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_026_Stagisti\4_026_Stagisti\obj\Debug\4_026_Stagisti.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_026_Stagisti\4_026_Stagisti\obj\Debug\4_026_Stagisti.exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_026_Stagisti\4_026_Stagisti\obj\Debug\4_026_Stagisti.pdb

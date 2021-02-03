@@ -37,7 +37,7 @@ namespace _4_026_Stagisti
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.cmbClasse = new System.Windows.Forms.ComboBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cmbAzienda = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
             this.cmbSezione = new System.Windows.Forms.ComboBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -46,7 +46,7 @@ namespace _4_026_Stagisti
             this.txtOre = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.btnInserisci = new System.Windows.Forms.Button();
-            this.btnRiscerca = new System.Windows.Forms.Button();
+            this.btnRicerca = new System.Windows.Forms.Button();
             this.dgvStudenti = new System.Windows.Forms.DataGridView();
             this.btnElimina = new System.Windows.Forms.Button();
             this.txtPosizione = new System.Windows.Forms.TextBox();
@@ -125,17 +125,17 @@ namespace _4_026_Stagisti
             this.cmbClasse.Size = new System.Drawing.Size(121, 24);
             this.cmbClasse.TabIndex = 7;
             // 
-            // comboBox1
+            // cmbAzienda
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.cmbAzienda.FormattingEnabled = true;
+            this.cmbAzienda.Items.AddRange(new object[] {
             "Azienda 1",
             "Azienda 2",
             "Azienda 3"});
-            this.comboBox1.Location = new System.Drawing.Point(361, 71);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 24);
-            this.comboBox1.TabIndex = 9;
+            this.cmbAzienda.Location = new System.Drawing.Point(361, 71);
+            this.cmbAzienda.Name = "cmbAzienda";
+            this.cmbAzienda.Size = new System.Drawing.Size(121, 24);
+            this.cmbAzienda.TabIndex = 9;
             // 
             // label5
             // 
@@ -214,15 +214,17 @@ namespace _4_026_Stagisti
             this.btnInserisci.TabIndex = 16;
             this.btnInserisci.Text = "Inserisci";
             this.btnInserisci.UseVisualStyleBackColor = true;
+            this.btnInserisci.Click += new System.EventHandler(this.btnInserisci_Click);
             // 
-            // btnRiscerca
+            // btnRicerca
             // 
-            this.btnRiscerca.Location = new System.Drawing.Point(268, 146);
-            this.btnRiscerca.Name = "btnRiscerca";
-            this.btnRiscerca.Size = new System.Drawing.Size(214, 34);
-            this.btnRiscerca.TabIndex = 17;
-            this.btnRiscerca.Text = "Ricerca";
-            this.btnRiscerca.UseVisualStyleBackColor = true;
+            this.btnRicerca.Location = new System.Drawing.Point(268, 146);
+            this.btnRicerca.Name = "btnRicerca";
+            this.btnRicerca.Size = new System.Drawing.Size(214, 34);
+            this.btnRicerca.TabIndex = 17;
+            this.btnRicerca.Text = "Ricerca";
+            this.btnRicerca.UseVisualStyleBackColor = true;
+            this.btnRicerca.Click += new System.EventHandler(this.btnRicerca_Click);
             // 
             // dgvStudenti
             // 
@@ -255,7 +257,7 @@ namespace _4_026_Stagisti
             this.label9.AutoSize = true;
             this.label9.Location = new System.Drawing.Point(265, 434);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(86, 21);
+            this.label9.Size = new System.Drawing.Size(69, 17);
             this.label9.TabIndex = 20;
             this.label9.Text = "Posizione";
             // 
@@ -268,7 +270,7 @@ namespace _4_026_Stagisti
             this.Controls.Add(this.label9);
             this.Controls.Add(this.btnElimina);
             this.Controls.Add(this.dgvStudenti);
-            this.Controls.Add(this.btnRiscerca);
+            this.Controls.Add(this.btnRicerca);
             this.Controls.Add(this.btnInserisci);
             this.Controls.Add(this.txtOre);
             this.Controls.Add(this.label8);
@@ -276,7 +278,7 @@ namespace _4_026_Stagisti
             this.Controls.Add(this.label7);
             this.Controls.Add(this.cmbSezione);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cmbAzienda);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.cmbClasse);
             this.Controls.Add(this.label4);
@@ -288,6 +290,7 @@ namespace _4_026_Stagisti
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvStudenti)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -304,7 +307,7 @@ namespace _4_026_Stagisti
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox cmbClasse;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox cmbAzienda;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.ComboBox cmbSezione;
         private System.Windows.Forms.Label label6;
@@ -313,7 +316,7 @@ namespace _4_026_Stagisti
         private System.Windows.Forms.TextBox txtOre;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Button btnInserisci;
-        private System.Windows.Forms.Button btnRiscerca;
+        private System.Windows.Forms.Button btnRicerca;
         private System.Windows.Forms.DataGridView dgvStudenti;
         private System.Windows.Forms.Button btnElimina;
         private System.Windows.Forms.TextBox txtPosizione;

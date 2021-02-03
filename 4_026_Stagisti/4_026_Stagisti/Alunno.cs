@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _4_026_Stagisti
 {
@@ -38,13 +34,20 @@ namespace _4_026_Stagisti
             set => specializzazione = value;
         }
 
-        public Alunno(string nome, string cognome, string citta) : base(nome, cognome, citta)
+        public Alunno(string nome, string cognome, string citta, string classe, string sezione, string spec)
+            : base(nome, cognome, citta)
         {
+            Classe = Convert.ToChar(classe);
+            specializzazione = spec;
+            Sezione = Convert.ToChar(sezione);
+            progressivo++;
+            matricola = "A" + progressivo.ToString().PadLeft(5, '0');
         }
 
         public override string visualizza()
         {
-            throw new NotImplementedException();
+            return Matricola + " " + Nome + " " + Cognome + " " + Citta + " " + Classe + " " +
+                Sezione + " " + Specializzazione;
         }
     }
 }
