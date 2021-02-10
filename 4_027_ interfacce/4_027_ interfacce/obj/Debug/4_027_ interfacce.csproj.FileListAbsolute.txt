@@ -1,0 +1,10 @@
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_027_ interfacce\4_027_ interfacce\bin\Debug\4_027_ interfacce.exe.config
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_027_ interfacce\4_027_ interfacce\bin\Debug\4_027_ interfacce.exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_027_ interfacce\4_027_ interfacce\bin\Debug\4_027_ interfacce.pdb
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_027_ interfacce\4_027_ interfacce\obj\Debug\4_027_ interfacce.csprojAssemblyReference.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_027_ interfacce\4_027_ interfacce\obj\Debug\_4_027__interfacce.Form1.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_027_ interfacce\4_027_ interfacce\obj\Debug\_4_027__interfacce.Properties.Resources.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_027_ interfacce\4_027_ interfacce\obj\Debug\4_027_ interfacce.csproj.GenerateResource.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_027_ interfacce\4_027_ interfacce\obj\Debug\4_027_ interfacce.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_027_ interfacce\4_027_ interfacce\obj\Debug\4_027_ interfacce.exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_027_ interfacce\4_027_ interfacce\obj\Debug\4_027_ interfacce.pdb
