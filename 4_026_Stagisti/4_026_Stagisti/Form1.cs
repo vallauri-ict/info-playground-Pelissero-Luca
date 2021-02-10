@@ -75,5 +75,27 @@ namespace _4_026_Stagisti
                     "information", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
+
+        private void btnElimina_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (txtPosizioneElimina.Text == "")
+                {
+                    elencoStudenti.cancella();
+                }
+                else
+                {
+                    elencoStudenti.cancella(Convert.ToInt32(txtPosizioneElimina.Text));
+                }
+                MessageBox.Show("Cancellazione effettuata");
+                elencoStudenti.VisualizzaDgv(dgvStudenti);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            
+        }
     }
 }

@@ -49,7 +49,7 @@ namespace _4_026_Stagisti
             this.btnRicerca = new System.Windows.Forms.Button();
             this.dgvStudenti = new System.Windows.Forms.DataGridView();
             this.btnElimina = new System.Windows.Forms.Button();
-            this.txtPosizione = new System.Windows.Forms.TextBox();
+            this.txtPosizioneElimina = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvStudenti)).BeginInit();
             this.SuspendLayout();
@@ -244,13 +244,14 @@ namespace _4_026_Stagisti
             this.btnElimina.TabIndex = 19;
             this.btnElimina.Text = "Elimina";
             this.btnElimina.UseVisualStyleBackColor = true;
+            this.btnElimina.Click += new System.EventHandler(this.btnElimina_Click);
             // 
-            // txtPosizione
+            // txtPosizioneElimina
             // 
-            this.txtPosizione.Location = new System.Drawing.Point(361, 431);
-            this.txtPosizione.Name = "txtPosizione";
-            this.txtPosizione.Size = new System.Drawing.Size(121, 22);
-            this.txtPosizione.TabIndex = 21;
+            this.txtPosizioneElimina.Location = new System.Drawing.Point(361, 431);
+            this.txtPosizioneElimina.Name = "txtPosizioneElimina";
+            this.txtPosizioneElimina.Size = new System.Drawing.Size(121, 22);
+            this.txtPosizioneElimina.TabIndex = 21;
             // 
             // label9
             // 
@@ -266,7 +267,7 @@ namespace _4_026_Stagisti
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(511, 475);
-            this.Controls.Add(this.txtPosizione);
+            this.Controls.Add(this.txtPosizioneElimina);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.btnElimina);
             this.Controls.Add(this.dgvStudenti);
@@ -319,7 +320,7 @@ namespace _4_026_Stagisti
         private System.Windows.Forms.Button btnRicerca;
         private System.Windows.Forms.DataGridView dgvStudenti;
         private System.Windows.Forms.Button btnElimina;
-        private System.Windows.Forms.TextBox txtPosizione;
+        private System.Windows.Forms.TextBox txtPosizioneElimina;
         private System.Windows.Forms.Label label9;
     }
 }
