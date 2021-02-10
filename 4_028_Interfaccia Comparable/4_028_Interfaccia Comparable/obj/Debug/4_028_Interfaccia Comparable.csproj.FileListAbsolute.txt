@@ -1,0 +1,10 @@
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_028_Interfaccia Comparable\4_028_Interfaccia Comparable\bin\Debug\4_028_Interfaccia Comparable.exe.config
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_028_Interfaccia Comparable\4_028_Interfaccia Comparable\bin\Debug\4_028_Interfaccia Comparable.exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_028_Interfaccia Comparable\4_028_Interfaccia Comparable\bin\Debug\4_028_Interfaccia Comparable.pdb
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_028_Interfaccia Comparable\4_028_Interfaccia Comparable\obj\Debug\4_028_Interfaccia Comparable.csprojAssemblyReference.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_028_Interfaccia Comparable\4_028_Interfaccia Comparable\obj\Debug\_4_028_Interfaccia_Comparable.Form1.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_028_Interfaccia Comparable\4_028_Interfaccia Comparable\obj\Debug\_4_028_Interfaccia_Comparable.Properties.Resources.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_028_Interfaccia Comparable\4_028_Interfaccia Comparable\obj\Debug\4_028_Interfaccia Comparable.csproj.GenerateResource.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_028_Interfaccia Comparable\4_028_Interfaccia Comparable\obj\Debug\4_028_Interfaccia Comparable.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_028_Interfaccia Comparable\4_028_Interfaccia Comparable\obj\Debug\4_028_Interfaccia Comparable.exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_028_Interfaccia Comparable\4_028_Interfaccia Comparable\obj\Debug\4_028_Interfaccia Comparable.pdb
