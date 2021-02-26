@@ -1,0 +1,10 @@
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_030_PrimoEsemioDelegate\4_030_PrimoEsemioDelegate\bin\Debug\4_030_PrimoEsemioDelegate.exe.config
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_030_PrimoEsemioDelegate\4_030_PrimoEsemioDelegate\bin\Debug\4_030_PrimoEsemioDelegate.exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_030_PrimoEsemioDelegate\4_030_PrimoEsemioDelegate\bin\Debug\4_030_PrimoEsemioDelegate.pdb
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_030_PrimoEsemioDelegate\4_030_PrimoEsemioDelegate\obj\Debug\4_030_PrimoEsemioDelegate.csprojAssemblyReference.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_030_PrimoEsemioDelegate\4_030_PrimoEsemioDelegate\obj\Debug\_4_030_PrimoEsemioDelegate.Form1.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_030_PrimoEsemioDelegate\4_030_PrimoEsemioDelegate\obj\Debug\_4_030_PrimoEsemioDelegate.Properties.Resources.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_030_PrimoEsemioDelegate\4_030_PrimoEsemioDelegate\obj\Debug\4_030_PrimoEsemioDelegate.csproj.GenerateResource.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_030_PrimoEsemioDelegate\4_030_PrimoEsemioDelegate\obj\Debug\4_030_PrimoEsemioDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_030_PrimoEsemioDelegate\4_030_PrimoEsemioDelegate\obj\Debug\4_030_PrimoEsemioDelegate.exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_030_PrimoEsemioDelegate\4_030_PrimoEsemioDelegate\obj\Debug\4_030_PrimoEsemioDelegate.pdb

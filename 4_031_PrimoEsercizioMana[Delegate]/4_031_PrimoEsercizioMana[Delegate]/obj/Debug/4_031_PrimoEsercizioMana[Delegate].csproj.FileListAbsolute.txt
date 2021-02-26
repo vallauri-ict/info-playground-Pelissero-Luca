@@ -1,0 +1,10 @@
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_031_PrimoEsercizioMana[Delegate]\4_031_PrimoEsercizioMana[Delegate]\bin\Debug\4_031_PrimoEsercizioMana[Delegate].exe.config
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_031_PrimoEsercizioMana[Delegate]\4_031_PrimoEsercizioMana[Delegate]\bin\Debug\4_031_PrimoEsercizioMana[Delegate].exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_031_PrimoEsercizioMana[Delegate]\4_031_PrimoEsercizioMana[Delegate]\bin\Debug\4_031_PrimoEsercizioMana[Delegate].pdb
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_031_PrimoEsercizioMana[Delegate]\4_031_PrimoEsercizioMana[Delegate]\obj\Debug\4_031_PrimoEsercizioMana[Delegate].csprojAssemblyReference.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_031_PrimoEsercizioMana[Delegate]\4_031_PrimoEsercizioMana[Delegate]\obj\Debug\_4_031_PrimoEsercizioMana_Delegate_.Form1.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_031_PrimoEsercizioMana[Delegate]\4_031_PrimoEsercizioMana[Delegate]\obj\Debug\_4_031_PrimoEsercizioMana_Delegate_.Properties.Resources.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_031_PrimoEsercizioMana[Delegate]\4_031_PrimoEsercizioMana[Delegate]\obj\Debug\4_031_PrimoEsercizioMana[Delegate].csproj.GenerateResource.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_031_PrimoEsercizioMana[Delegate]\4_031_PrimoEsercizioMana[Delegate]\obj\Debug\4_031_PrimoEsercizioMana[Delegate].csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_031_PrimoEsercizioMana[Delegate]\4_031_PrimoEsercizioMana[Delegate]\obj\Debug\4_031_PrimoEsercizioMana[Delegate].exe
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_031_PrimoEsercizioMana[Delegate]\4_031_PrimoEsercizioMana[Delegate]\obj\Debug\4_031_PrimoEsercizioMana[Delegate].pdb
