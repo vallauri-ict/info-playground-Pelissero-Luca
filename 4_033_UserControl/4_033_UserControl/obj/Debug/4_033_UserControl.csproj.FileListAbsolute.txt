@@ -1,0 +1,8 @@
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_033_UserControl\4_033_UserControl\bin\Debug\4_033_UserControl.dll
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_033_UserControl\4_033_UserControl\bin\Debug\4_033_UserControl.pdb
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_033_UserControl\4_033_UserControl\obj\Debug\4_033_UserControl.csprojAssemblyReference.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_033_UserControl\4_033_UserControl\obj\Debug\_4_033_UserControl.UcTextBox.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_033_UserControl\4_033_UserControl\obj\Debug\4_033_UserControl.csproj.GenerateResource.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_033_UserControl\4_033_UserControl\obj\Debug\4_033_UserControl.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_033_UserControl\4_033_UserControl\obj\Debug\4_033_UserControl.dll
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_033_UserControl\4_033_UserControl\obj\Debug\4_033_UserControl.pdb

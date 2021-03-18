@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _4_032_SecondoEsercizioMana_Delegate_
 {
-    class OverMaxEventArgs : EventArgs
+    public class OverMaxEventArgs : EventArgs
     {
         public int ValoreSoglia { get; }
 

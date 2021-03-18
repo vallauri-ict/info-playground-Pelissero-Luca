@@ -59,6 +59,7 @@ namespace _4_032_SecondoEsercizioMana_Delegate_
             this.btnIncrement.TabIndex = 2;
             this.btnIncrement.Text = "Incrementare";
             this.btnIncrement.UseVisualStyleBackColor = true;
+            this.btnIncrement.Click += new System.EventHandler(this.btnIncrement_Click);
             // 
             // Form1
             // 

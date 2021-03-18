@@ -1,0 +1,5 @@
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_032_SecondoEsercizioMana[Delegate]\4_032_SecondoEsercizioMana[Delegate]\obj\Debug\4_032_SecondoEsercizioMana[Delegate].csprojAssemblyReference.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_032_SecondoEsercizioMana[Delegate]\4_032_SecondoEsercizioMana[Delegate]\obj\Debug\_4_032_SecondoEsercizioMana_Delegate_.Form1.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_032_SecondoEsercizioMana[Delegate]\4_032_SecondoEsercizioMana[Delegate]\obj\Debug\_4_032_SecondoEsercizioMana_Delegate_.Properties.Resources.resources
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_032_SecondoEsercizioMana[Delegate]\4_032_SecondoEsercizioMana[Delegate]\obj\Debug\4_032_SecondoEsercizioMana[Delegate].csproj.GenerateResource.cache
+C:\Users\Luca\Desktop\Documents\4B\informatica\4_032_SecondoEsercizioMana[Delegate]\4_032_SecondoEsercizioMana[Delegate]\obj\Debug\4_032_SecondoEsercizioMana[Delegate].csproj.CoreCompileInputs.cache
