@@ -1,0 +1,10 @@
+C:\Users\Luca\Desktop\Pelissero Luca\Pelissero Luca\bin\Debug\Pelissero Luca.exe.config
+C:\Users\Luca\Desktop\Pelissero Luca\Pelissero Luca\bin\Debug\Pelissero Luca.exe
+C:\Users\Luca\Desktop\Pelissero Luca\Pelissero Luca\bin\Debug\Pelissero Luca.pdb
+C:\Users\Luca\Desktop\Pelissero Luca\Pelissero Luca\obj\Debug\Pelissero Luca.csprojAssemblyReference.cache
+C:\Users\Luca\Desktop\Pelissero Luca\Pelissero Luca\obj\Debug\Pelissero_Luca.Form1.resources
+C:\Users\Luca\Desktop\Pelissero Luca\Pelissero Luca\obj\Debug\Pelissero_Luca.Properties.Resources.resources
+C:\Users\Luca\Desktop\Pelissero Luca\Pelissero Luca\obj\Debug\Pelissero Luca.csproj.GenerateResource.cache
+C:\Users\Luca\Desktop\Pelissero Luca\Pelissero Luca\obj\Debug\Pelissero Luca.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Pelissero Luca\Pelissero Luca\obj\Debug\Pelissero Luca.exe
+C:\Users\Luca\Desktop\Pelissero Luca\Pelissero Luca\obj\Debug\Pelissero Luca.pdb
